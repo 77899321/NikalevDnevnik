@@ -1,0 +1,10 @@
+C:\Users\Kloswerd\Desktop\Formaaa\Dnevnichochek\bin\Debug\Dnevnichochek.exe.config
+C:\Users\Kloswerd\Desktop\Formaaa\Dnevnichochek\bin\Debug\Dnevnichochek.exe
+C:\Users\Kloswerd\Desktop\Formaaa\Dnevnichochek\bin\Debug\Dnevnichochek.pdb
+C:\Users\Kloswerd\Desktop\Formaaa\Dnevnichochek\obj\Debug\Dnevnichochek.csprojAssemblyReference.cache
+C:\Users\Kloswerd\Desktop\Formaaa\Dnevnichochek\obj\Debug\Dnevnichochek.Form1.resources
+C:\Users\Kloswerd\Desktop\Formaaa\Dnevnichochek\obj\Debug\Dnevnichochek.Properties.Resources.resources
+C:\Users\Kloswerd\Desktop\Formaaa\Dnevnichochek\obj\Debug\Dnevnichochek.csproj.GenerateResource.cache
+C:\Users\Kloswerd\Desktop\Formaaa\Dnevnichochek\obj\Debug\Dnevnichochek.csproj.CoreCompileInputs.cache
+C:\Users\Kloswerd\Desktop\Formaaa\Dnevnichochek\obj\Debug\Dnevnichochek.exe
+C:\Users\Kloswerd\Desktop\Formaaa\Dnevnichochek\obj\Debug\Dnevnichochek.pdb
